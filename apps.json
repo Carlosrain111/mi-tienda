@@ -5,23 +5,118 @@
     "apk": "https://www.dropbox.com/scl/fi/w8gwdzd9twuu6rtba1tu6/netfly-apk-v-2-5-4_1770465130.apk?rlkey=lai1bn5dy3y7arrb643bduxcc&st=f6e7oz3f&dl=1",
     "descripcion": "La mejor aplicación para ver películas y series en streaming sin cortes."
   },
-  { "nombre": "fctv", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQif-AZjlbFfTP1jHx-6uYmnkxpLkEh0CTCuA&s", "apk": "https://www.dropbox.com/scl/fi/xzdc6o22wkqcaxufi8gnt/FCTV33-v3.0.306-McKlaus_Appss-MOD.apk?rlkey=zwd7hztg7yrxht7hjxw6apckp&st=66fy2apg&dl=1", "descripcion": "hola" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
-  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" }
+  {
+    "nombre": "App de Prueba 2",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 2."
+  },
+  {
+    "nombre": "App de Prueba 3",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 3."
+  },
+  {
+    "nombre": "App de Prueba 4",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 4."
+  },
+  {
+    "nombre": "App de Prueba 5",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 5."
+  },
+  {
+    "nombre": "App de Prueba 6",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 6."
+  },
+  {
+    "nombre": "App de Prueba 7",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 7."
+  },
+  {
+    "nombre": "App de Prueba 8",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 8."
+  },
+  {
+    "nombre": "App de Prueba 9",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 9."
+  },
+  {
+    "nombre": "App de Prueba 10",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 10."
+  },
+  {
+    "nombre": "App de Prueba 11",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 11."
+  },
+  {
+    "nombre": "App de Prueba 12",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 12."
+  },
+  {
+    "nombre": "App de Prueba 13",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 13."
+  },
+  {
+    "nombre": "App de Prueba 14",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 14."
+  },
+  {
+    "nombre": "App de Prueba 15",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 15."
+  },
+  {
+    "nombre": "App de Prueba 16",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 16."
+  },
+  {
+    "nombre": "App de Prueba 17",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 17."
+  },
+  {
+    "nombre": "App de Prueba 18",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 18."
+  },
+  {
+    "nombre": "App de Prueba 19",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 19."
+  },
+  {
+    "nombre": "App de Prueba 20",
+    "imagen": "https://via.placeholder.com/512",
+    "apk": "https://www.dropbox.com/scl/fi/enlace_aqui?dl=1",
+    "descripcion": "Escribe aquí la descripción para la aplicación número 20."
+  }
 ]
