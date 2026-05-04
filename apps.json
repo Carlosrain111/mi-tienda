@@ -1,7 +1,26 @@
 [
   {
-    "nombre": "netfly",
+    "nombre": "Netfly",
     "imagen": "https://cdn-www.bluestacks.com/bs-images/Icon_xyz.netfly.jpg",
     "apk": "https://www.dropbox.com/scl/fi/w8gwdzd9twuu6rtba1tu6/netfly-apk-v-2-5-4_1770465130.apk?rlkey=lai1bn5dy3y7arrb643bduxcc&st=c5xkibi2&dl=1"
-  }
+  },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" },
+  { "nombre": "Próximamente", "imagen": "https://dummyimage.com/300x300/000044/00ccff.jpg&text=Proximamente", "apk": "" }
 ]
